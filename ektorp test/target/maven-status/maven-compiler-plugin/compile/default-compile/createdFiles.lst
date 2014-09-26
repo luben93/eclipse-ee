@@ -1,0 +1,4 @@
+org/ektorp/sample/Comment.class
+org/ektorp/sample/BlogPostRepository.class
+org/ektorp/sample/BlogController.class
+org/ektorp/sample/BlogPost.class
